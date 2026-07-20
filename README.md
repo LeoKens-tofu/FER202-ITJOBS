@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Team Members
+
+| No | Student ID | Full Name | GitHub Username | Role | Main Responsibility |
+|---:|---|---|---|---|---|
+| 1 | DE190953 | Trần Đức Việt  | tranviet-tv | Leader |  |
+| 2 | DE191024 | Trần Thanh Tiến Đạt | LeoKens-tofu | Member |  |
+| 3 | DE190478 | Lê Tự Minh Quang | Quang102769 | Member |  |
+| 4 | DE190972 | Trần Huy Hoàng | hoanght152-sketch | Member |  |
+| 5 | DE190658 | Lê Văn Phúc | vphuc02 | Member |  |
+
 ## Getting Started
 
 First, run the development server:
